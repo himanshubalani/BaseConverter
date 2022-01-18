@@ -25,5 +25,7 @@ git clone https://github.com/himanshubalani/BaseConverter.git
 ## Screenshot of Usage
 ![Screenshot 2022-01-07 193750](https://user-images.githubusercontent.com/85930567/148555535-316a2779-352d-4b9f-80c4-6d58fb7e424a.jpg)
 
+Check Out the Easter-egg by Typing **'wakanda'** in the initial input. <img align="center" width="20px" src="https://user-images.githubusercontent.com/85930567/149898384-f4485207-008a-4d20-9907-652b28b943e7.png" >
+
 ![Himanshu (1)](https://user-images.githubusercontent.com/85930567/130409887-7c0452c9-89ff-4a22-adb3-e3a47e9fbd1d.png)
 
